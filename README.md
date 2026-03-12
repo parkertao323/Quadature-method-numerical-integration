@@ -16,5 +16,5 @@ The main file evaluates both methods on 6 functions over the interval `[-1,1]`, 
 - estimate error behaviors for different types of functions
 - present numerical convergence through plots and fitted lines
 
-When running this program, open MATLAB, place all three files in the same foler, and run:
-**Numerical_Integration_Quadrature.m**
+When running this program, open MATLAB, place all three files in the same folder, and run:
+`Numerical_Integration_Quadrature.m`.
