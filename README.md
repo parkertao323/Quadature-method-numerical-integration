@@ -10,6 +10,7 @@ The main file evaluates both methods on 6 functions over the interval `[-1,1]`, 
 - `Numerical_Integration_Quadrature.m`: main file for running the numerical tests
 - `Gaussian_Quadrature.m`: supporting file that implements Gauss quadrature
 - `ClenshawCurtis_Quadrature.m`: supporting file that implements Clenshaw-Curtis quadrature
+- `figure.zip`: six plots, each correspond to one test function, for reference
 
 **What this project does
 - compare two quadrature methods
